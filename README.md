@@ -5,7 +5,7 @@ Home: http://github.com/WhyNotHugo/python-barcode
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: This library provides a simple way to create barcodes using only the Python standard lib
 
