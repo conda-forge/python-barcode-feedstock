@@ -1,5 +1,5 @@
 {% set name = "python-barcode" %}
-{% set version = "0.11.0" %}
+{% set version = "0.12.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 5f3f9b3c03a373e8f7cd78e21cc847bedbce161f411da1fc56b9c6c13938920c
+  sha256: 8bb95c4d2afe69b5278a26bf8912b74e146b480f0477ae476555534813e3ba9f
 
 build:
   noarch: python
