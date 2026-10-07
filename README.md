@@ -190,5 +190,6 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@jsmolic](https://github.com/jsmolic/)
 * [@sodre](https://github.com/sodre/)
 
